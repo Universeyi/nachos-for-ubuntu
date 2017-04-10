@@ -11,14 +11,14 @@
 ### 为什么nachos在Ubuntu上不能直接编译？
 * gcc版本差异导致编译无法通过
 ### 正文
-`sudo apt-get install build-essential`
-`sudo apt-get install g++-multilib`
-`sudo apt-get install gcc-multilib`
-`wget https://github.com/Universeyi/nachos-for-ubuntu/NachOS4.1ForUbuntu.zip `
-`unzip  NachOS4.1ForUbuntu.zip`
-`cd NachOS4.1ForUbuntu/code/build.linux `
-`make depend`
-`make`
+`sudo apt-get install build-essential
+`sudo apt-get install g++-multilib
+`sudo apt-get install gcc-multilib
+`wget https://github.com/Universeyi/nachos-for-ubuntu/NachOS4.1ForUbuntu.zip
+`unzip  NachOS4.1ForUbuntu.zip
+`cd NachOS4.1ForUbuntu/code/build.linux 
+`make depend
+`make
 
 搞定。
 10/04/2017
