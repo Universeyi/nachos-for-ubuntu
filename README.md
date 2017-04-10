@@ -17,7 +17,7 @@
 
 `sudo apt-get install gcc-multilib`
 
-`wget https://github.com/Universeyi/nachos-for-ubuntu/NachOS4.1ForUbuntu.zip`
+`wget https://github.com/Universeyi/nachos-for-ubuntu/blob/master/NachOS4.1ForUbuntu.zip`
 
 `unzip  NachOS4.1ForUbuntu.zip`
 
