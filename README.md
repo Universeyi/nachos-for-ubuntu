@@ -1,5 +1,7 @@
 # NachOS for Ubuntu 64&32 编译指南以及资料包
 作者@[universeyi](https://github.com/Universeyi/)
+
+
 **本文基于孔旻昊[@Scu\_laji](https://github.com/kongminhao)总结编译经验修改而成，特此致谢**
 ### 为什么要做这个教程？
 * Redhat 太老旧
