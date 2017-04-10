@@ -30,3 +30,8 @@
 搞定。
 
 10/04/2017
+
+### 参考文献
+[NachOS ubuntu编译指南](http://sculaji.xyz/2017/03/19/NachOS-ubuntu%E7%BC%96%E8%AF%91%E6%8C%87%E5%8D%97/)
+
+[北大nachos安装教程](http://bbs.pku6.edu.cn/v2/collection-read.php?path=groups%2FGROUP_1%2FCS%2FD7829C813%2FD70E7C759%2FM.1298895926.A)
